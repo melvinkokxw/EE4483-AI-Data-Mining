@@ -162,3 +162,4 @@ datasets/
 data/
 *.csv
 *.png
+*.pth
